@@ -1,1 +1,13 @@
-<h1 align="center">💻 Tela de Login Moderna</h1>  <p align="center"> Interface de login desenvolvida com foco em design moderno, responsividade e boas práticas de front-end. </p>  ---  ## ✨ Preview  <p align="center">   <!-- Adicione aqui suas imagens -->   <img src="preview1.png" width="400px">   <img src="preview2.png" width="400px"> </p>  ---  ## 🚀 Sobre o projeto  Este projeto consiste em uma interface de login com diferenciação visual de tipos de usuário (cliente e prestador), simulando a base de um sistema real.  O foco foi criar uma UI limpa, moderna e funcional, aplicando conceitos de usabilidade e organização visual.  ---  ## 🛠️ Tecnologias  <p>   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"> </p>  ---  ## 🎯 Destaques  - 💎 Design moderno com glassmorphism   - 📱 Layout responsivo com Flexbox   - 🎨 Componentes personalizados   - ⚡ Interface limpa e intuitiva    ---  ## 📚 Aprendizados  - Estruturação semântica com HTML   - Estilização avançada com CSS   - Organização de layout com Flexbox   - Aplicação de conceitos de UI/UX    ---  ## 🚧 Próximos passos  - Adicionar interatividade com JavaScript   - Integração com backend   - Sistema de autenticação    ---  <p align="center">   💡 Projeto em constante evolução </p>
+# 💻 Tela de Login
+
+Interface de login desenvolvida utilizando apenas HTML e CSS, com foco em organização, responsividade e boas práticas de front-end.
+
+## 🛠️ Tecnologias
+
+- HTML5  
+- CSS3  
+
+## 🎯 Objetivo
+
+Praticar a construção de interfaces modernas e bem estruturadas, simulando a base visual de um sistema real.
+
